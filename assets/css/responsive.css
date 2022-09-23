@@ -1,0 +1,538 @@
+@media(min-width: 992px) and (max-width: 1199.98px){
+
+    
+#scolar-img img {
+	margin-left: -5px !important;
+}
+    #banner-img img {
+        height: 494px;
+    }
+    #banner-text {
+        margin-top: 158px;
+    }
+    .banner-from {
+        margin-top: 50px;
+    }
+    .banner-details h1 {
+        font-size: 37px;
+    }
+    #navbarNav ul li a {
+        font-size: 15px;
+    }
+    .navbar-expand-lg .navbar-nav {
+        padding-left: 6rem;
+        position: absolute;
+    }
+    #about-details h2 {
+        margin-top: 4px;
+    }
+    #about-details p {
+        padding-left: 74px;
+        padding-top: 6px;
+    }
+    #about-img img {
+        width: 476px;
+        height: 376px;
+        margin-top: 26px;
+    }
+    #consultent {
+        height: 368px;;
+    }
+    .consultent-img img {
+        height: 368px;
+        margin-left: 17px;
+    }
+    .consultent-text {
+        margin-top: 52px;
+    }
+    #consult-btn {
+        padding: 5px 6px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .consultent-img img {
+        margin-left: 30px;
+        border-radius: 5px;
+    }
+    .consultent-text h6 {
+        font-size: 15px;
+    }
+    .banner-from #lon {
+        width: 139px;
+    }
+    .banner-from #ox {
+        width: 236px;
+    }
+    #slider h2 {
+        font-size: 31px;
+    }
+    .slick-slide {
+        margin-left: 24px;
+    }
+}
+ 
+
+
+
+ @media(max-width: 990.98px){
+    #banner-img img {
+        height: 353px !important;
+    }
+    #banner-text {
+        margin-top: 6rem;
+    }
+    .navbar-expand-lg .navbar-nav {
+        display: none;
+    }
+    #navbarNav ul li a {
+        line-height: 20px;
+    }
+    .navbar-nav {
+        align-items: center;
+    }
+    #login-btn {
+        margin-top: 11px;
+        margin-bottom: 10px;
+    }
+    #login-btn :nth-child(2) {
+        margin-left: 22px !important;
+    }
+    .fa, .far, .fas {
+        margin-left: 24px;
+    }
+    #login-btn {
+        width: 108px;
+        Height: 37px;
+    }
+    #about-img img {
+        margin-left: 148px !important;
+    }
+    #banner-img img {
+        height: 385px;
+    }
+    #about-details {
+        text-align: center;
+    }
+    .about-h4 {
+        margin-top: 53px;
+    }
+    .d-flex.about-h4 {
+	justify-content: center;
+	font-size: 36px;
+}
+
+#banner-img img {
+    height: 406px;
+}
+#banner {
+    height: 444px;
+}
+.pp {
+    margin-left: -35px;
+}
+#user-count {
+    height: 82px;
+}
+.bdr {
+    height: 81px;
+}
+#user-count span {
+    width: 65.86px;
+    font-size: 52.879px;
+}
+#user-count h6 {
+    height: 19.4px;
+    font-size: 10.715px;
+    padding-top: 21px;
+}
+#mission {
+    margin-top: 16px;
+    align-items: center;
+    justify-content: center;
+}
+#slider h2 {
+    margin-top: 39px;
+    margin-bottom: 39px;
+    font-size: 26px;
+}
+h1 {
+    font-size: 18px;
+}
+.consultent-text h6 {
+    padding-top: 8px;
+    padding-bottom: 18px;
+}
+.consultent-text h6 {
+    font-size: 13px;
+}
+#consultent {
+    height: 249px;
+}
+#consult-btn {
+    padding: 6px 4px;
+}
+.consultent-img img {
+    height: 249px;
+}
+#about-img img {
+    margin-left: 45px;
+}
+
+#banner-text {
+	margin-top: 63px;
+}
+.banner-details h1 {
+	font-size: 26px;
+}
+.banner-details p {
+	font-size: 13px;
+}
+
+.banner-from #lon {
+	height: 44px;
+	width: 101px;
+}
+.banner-from #ox {
+	height: 44px;
+	margin-left: 7px;
+	max-width: 169px;
+}
+.banner-from-btn {
+	width: 41px;
+	height: 46px;
+	margin-left: 5px;
+}
+.banner-from-btn i {
+	margin-left: 12px;
+	margin-top: 12px;
+	font-size: 20px;
+}
+#banner-text p {
+	margin-top: 12px;
+}
+
+.slick-slide {
+	margin-left: 27px;
+}
+
+#scolar-img img{
+	height: 203px !important;
+	width: 212px !important;
+	margin-left: 124px;
+	margin-top: 52px;
+}
+
+
+
+/* testomonial part */
+
+.test-title h6 {
+	margin-left: 11px;
+	font-size: 10px;
+}
+.test-title h5 {
+	margin-left: 10px;
+	font-size: 14px;
+}
+#testomonial h1 {
+	font-size: 30px;
+	line-height: 34px;
+	margin-top: 15px;
+}
+
+
+
+#scolar-img img{
+	margin-left: 0px !important;
+}
+#banner-img img {
+    height: 353px;
+}
+#banner-text {
+    margin-top: 102px;
+}
+   
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+/* tablet mobile debise 576px-768px */
+@media(max-width: 767.98px){
+    #banner-img img {
+        height: 262px !important;
+        padding-left: 1rem !important;
+    }
+    #banner-text {
+        margin-top: 90px;
+    }
+    
+    
+    #banner {
+        height: 334px;
+    }
+    #banner-img img {
+        height: 300px;
+    }
+    .banner-details h1 {
+        font-size: 19px;
+    }
+    .banner-details p {
+        font-size: 10px;
+    }
+    .banner-from {
+        margin-top: 20px;
+    }
+    .banner-from #lon {
+        height: 30px;
+        width: 73px;
+        font-size: 11px;
+    }
+    .banner-from #ox {
+        height: 30px;
+        margin-left: 4px;
+        max-width: 122px;
+        font-size: 11px;
+    }
+    .banner-from-btn {
+        height: 33px;
+        margin-left: 4px;
+    }
+    .banner-from-btn i {
+        margin-left: 13px;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    .banner-p {
+        font-size: 9px !important;
+        margin-left: 0px;
+    }
+    #user-count {
+        height: 55px;
+    }
+    .bdr {
+        height: 54px;
+    }
+    #user-count span {
+        width: 39.86px;
+        font-size: 28.879px;
+    }
+    #user-count h6 {
+        height: 13.4px;
+        font-size: 8.715px;
+        padding-top: 8px;
+    }
+    #about-img img {
+        margin-left: 14px;
+    }
+    #about-img img {
+        width: 459px;
+        height: 344px;
+    }
+    #about-img img {
+        margin-left: 70px !important;
+    }
+    #about-img img {
+        margin-left: 46px;
+    }
+    #about {
+        margin-top: 40px;
+    }
+    #about {
+        margin-top: 40px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    #about-details h2 {
+        margin-top: 11px;
+    }
+    #mission {
+        margin-top: 17px;
+    }  
+    
+    #mission h3 {
+        padding-left: 31px;
+    }
+    #about-details p {
+        padding-left: 14px;
+        padding-top: 15px;
+    }
+    #slider h2 {
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+    .slick-slide img {
+        width: 237px;
+    }
+    .slick-slide {
+        margin-left: 9.5px;
+    }
+
+
+
+    #scolar-img {
+        height: 203px !important;
+        width: 212px !important;
+        margin-left: 124px;
+        margin-top: 52px;
+    }
+
+
+
+
+
+
+    #testomonial p {
+        margin-top: 14px;
+        font-size: 9px;
+    }
+    #testomonial h1 {
+        font-size: 21px;
+        line-height: 25px;
+        margin-top: 15px;
+    }
+    #card {
+        width: 100% !important;
+    }
+
+    #test-img {
+        margin-top: 10px;
+        margin-bottom: 18px;
+    }
+
+
+
+}
+
+
+
+
+/* mobile device */
+
+
+
+@media(max-width: 575.98px){
+   
+    .d-flex.counct {
+        margin-top: -1rem;
+    }
+    #banner-text {
+        margin-left: 4rem;
+    }
+    #banner-img {
+        opacity: 0;
+    }
+    .banner-details h1 {
+        margin-top: 6rem;
+    }
+    #banner-text {
+        margin-top: 10px;
+        width: 100%;
+    }
+    .banner-from {
+        margin-top: 4px;
+    }
+    #banner-img img {
+        height: 156px;
+        margin-left: 191px;
+    }
+    .banner-p {
+        font-size: 7px !important;
+    }
+    #user-count .count {
+        margin-top: 0px;
+        padding-left: 3px;
+    }
+    #user-count span {
+        font-size: 23.879px;
+    }
+    #user-count h6 {
+        height: 10.4px;
+        font-size: 7.715px;
+    }
+    #user-count {
+        height: 35px;
+    }
+    .bdr {
+        border-right: .5px solid #ffffff;
+         box-shadow: none; 
+        
+    }
+    .col-6 {
+        width: 100%;
+    }
+    #about-img img {
+        width: 349px;
+        height: 272px;
+    }
+    #about-img img {
+        margin-left: -8px;
+    }
+
+    #consultent {
+        height: 455px;
+    }
+    .consultent-img {
+        margin-top: 29px;
+    }
+    .consultent-text {
+        margin-top: 52px;
+    }
+     #country .asia{
+        width: 33% !important;
+    }
+    .country-uni.aus {
+        margin-bottom: 17px;
+    }
+    #country h3 {
+        margin-top: 17px;
+    }
+    .country-uni {
+        margin-top: 21px;
+    }
+    #about-img img {
+        margin-left: -8px !important;
+    }
+    .slick-slide img {
+        margin-left: 56px;
+    }
+    
+    #scolar-img img {
+        height: 203px !important;
+        width: 271px !important;
+        margin-left: -87px !important;
+        margin-top: 10px;
+    }
+    
+.futter_info h2{
+    font-size: 18px;
+ }
+ .futter_info p{
+    font-size: 12px;
+ }
+ #login-btn {
+	width: 103px;
+	Height: 36px;
+}
+.navbar-nav {
+	 align-items: left; 
+}
+.navbar-nav {
+	margin-right: 80px;
+}
+
+
+
+
+
+}

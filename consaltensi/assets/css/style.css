@@ -1,0 +1,189 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/**banner part start**/
+#pro_bg{
+    background: url(../img/banner_bg.jpg);
+    height: 500px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    background-position: fixed;
+}
+#pro_bg::before{
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: rgba(66,75,123, .94);
+    z-index: -1;
+    display: block;
+}
+#pro_bg h2{
+    font-family: Manrope;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54.88px;
+    letter-spacing: 3%;
+    color: #fff;
+    text-transform: capitalize;
+    padding-top: 166px;
+    padding-left: 576px;
+}
+#pro_bg .pro_form{
+     margin-left: 566px;
+}
+#pro_bg form  input{
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: jost;
+    text-transform: capitalize;
+}
+#pro_bg .pro_form p{
+    display: inline-block;
+    margin-left: 80px;
+    font-size: 14px;
+    font-family: Jost;
+    font-weight: 400;
+    color: #fff;
+    line-height: 20.23px;
+    letter-spacing: 1%;
+}
+#pro_btn{
+    border: none;
+    border-radius: 5px;
+    background-color: #0a8975;
+    margin-left: 10px;
+}
+/**banner part edn**/
+/**common part start**/
+/**part one start**/
+.part_one{
+    height: 800px;
+    margin-top: 15px;
+    box-shadow: rgba(0, 0, 0, .9);
+}
+.part_one h2{
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 600;
+    color: #000;
+    text-transform: capitalize;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.part_one h3{
+    font-size: 18px;
+    font-family: Jost;
+    font-weight: 500;
+    color: #000;
+    text-transform: capitalize;
+    padding-left: 25px;
+}
+.part_one form input{
+    margin-left: 25px;
+    height: 17px; 
+    width: 17px;
+}
+.part_one form label{
+    margin-left: 10px;
+    font-size: 18px;
+    color: #000;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+/**part one end**/
+/**part two start**/
+.part_two{
+    margin-left: 2px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.part_three{
+    height: 308px;
+    width: 100%;
+    background-color: #FFF;
+    overflow: hidden;
+    border-radius: 11px;
+    margin-top: 10px;
+}
+.part_two .part_three img{
+    height: 127px;
+    width: 127px;
+    padding-top: 20px;
+    padding-left: 20px;
+    display: inline-block;
+}
+.part_two .part_three h2{
+    font-size: 27px;
+    font-family: Manrope;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #000;
+    display: inline-block;
+    padding-top: 20px;
+}
+.part_two .part_three h5{
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+}
+.part_two .part_three button{
+    height: 32.7px;
+    width: 155.97px;
+    box-shadow: none;
+    background-color: #e3e9e8;
+    border: none;
+    border-radius: 3.27px;
+}
+.part_two .part_three button a{
+    font-size: 14px;
+    font-family: Manrope;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    padding-left: 14px;
+}
+.part_two .part_three button i{
+   font-size: 14px;
+   color: #0a8375;
+}
+.part_two .part_three #part_btn{
+    background-color: #0a8975;
+ }
+.part_two .part_three #part_btn a{
+    color: #fff;
+ }
+ .part_two .part_three #part_btn i{
+    color: #fff;
+ }
+ .part_two .part_three .part_tolk h3{
+    line-height: 10px;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 15px;
+    text-transform: capitalize;
+ }
+ .part_two .part_three .part_tolk p{
+    line-height: 19px;
+    font-size: 17.5px;
+    font-weight: 400px;
+    padding-top: 10px;
+    padding-left: 15px;
+    text-transform: capitalize;
+ }
+ .ho{
+    margin-left: 1rem;
+ }
+ /**part two end**/
+/**common part end**/
